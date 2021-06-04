@@ -5,7 +5,7 @@ int main()
 {
      int n, num, digit, rev = 0;
 
-     cout << "Enter a positive number: ";
+     cout << "Enter a positive number: ";                           //edit for first commit, adding comment #1
      cin >> num;
 
      n = num;
