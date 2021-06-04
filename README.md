@@ -26,7 +26,6 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
-- Aditya Kumar Jha [aditya-jha13](http://github.com/aditya-jha13)
 - Aditya Uppal [aditya-uppal](http://github.com/aditya-uppal)
 - Anubhab Dasgupta [anubhabdg7](https://github.com/anubhabdg7)
 - Manideep Sridhara [manideep1108](http://github.com/manideep1108)
