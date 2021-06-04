@@ -31,6 +31,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Manideep Sridhara [manideep1108](http://github.com/manideep1108)
 - SHANMUKH [Shanmukh-C](https://github.com/Shanmukh-C)
 - Viswesh N [Viswesh-N](http://github.com/Viswesh-N)
+- CHIRAHG GUPTA [CHIRAHG-GUPTA](https://github.com/CHIRAHG-GUPTA)
 
 ## Task 2
 
