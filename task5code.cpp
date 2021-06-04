@@ -12,7 +12,7 @@ int main()
 
      do
      {
-         digit = num % 10;
+         digit = num % 10;                                          //edit for the fifth commit, adding comment #5
          rev = (rev * 10) + digit;
          num = num / 10;
      } while (num != 0);
