@@ -25,11 +25,11 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
-- Raunak Singh Rajpal [RaunakSRajpal](https://github.com/RaunakSRajpal/)
 
 - Aditya Uppal [aditya-uppal](http://github.com/aditya-uppal)
 - Anubhab Dasgupta [anubhabdg7](https://github.com/anubhabdg7)
 - Manideep Sridhara [manideep1108](http://github.com/manideep1108)
+- Raunak Singh Rajpal [RaunakSRajpal](https://github.com/RaunakSRajpal)
 - SHANMUKH [Shanmukh-C](https://github.com/Shanmukh-C)
 - Viswesh N [Viswesh-N](http://github.com/Viswesh-N)
 
