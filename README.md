@@ -31,7 +31,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Manideep Sridhara [manideep1108](http://github.com/manideep1108)
 - SHANMUKH [Shanmukh-C](https://github.com/Shanmukh-C)
 - Viswesh N [Viswesh-N](http://github.com/Viswesh-N)
-
+- Shreesh Mahapatra[SM20062002]((http://github.com/SM20062002)
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
