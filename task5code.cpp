@@ -8,7 +8,7 @@ int main()
      cout << "Enter a positive number: ";                           //edit for first commit, adding comment #1
      cin >> num;
 
-     n = num;
+     n = num;                                                       //edit for the third commit, adding comment #3
 
      do
      {
