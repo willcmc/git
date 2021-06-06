@@ -32,7 +32,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Manideep Sridhara [manideep1108](http://github.com/manideep1108)
 - SHANMUKH [Shanmukh-C](https://github.com/Shanmukh-C)
 - Viswesh N [Viswesh-N](http://github.com/Viswesh-N)
-- GVK Sai Sarath [SaiSarath17](hhtps://github.com/SaiSarath17)
+- GVK Sai Sarath [SaiSarath17](https://github.com/SaiSarath17)
 
 ## Task 2
 
